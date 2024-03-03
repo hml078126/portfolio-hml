@@ -432,6 +432,7 @@
 /* ------------------ */
 
 .profile-sty{
-    padding: 80px;
-  
+    padding: 20px;
+    border-radius: 50%;
+    box-shadow: 2px 4px gray;
 }
