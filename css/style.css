@@ -1077,14 +1077,14 @@ footer .getintouch strong{
 }
 
 .titlebar .page-title{
-    font-size: 120px;
-    font-weight: 900;
+    font-size: 80px;
+    font-weight: 700;
     letter-spacing: -2px;
 }
 
 .titlebar .page-title span{
-    font-size: 120px;
-    font-weight: 900;
+    font-size: 80px;
+    font-weight: 700;
 }
 
 .titlebar #particles-js {
